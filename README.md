@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://media.discordapp.net/attachments/971588263037005925/1502698201054973962/uhum.png?ex=6a00a841&is=69ff56c1&hm=1f6be9bc7be5fa13fa67a1c8f2753d4fae847e030f73077d015830b2705b43d0&=&format=webp&quality=lossless&width=942&height=330"/>
+  <img src="./uhum.png"/>
 </div>
 
 <br clear="both">
