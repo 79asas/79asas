@@ -5,10 +5,10 @@
 <br clear="both">
 
 <div align="left">
-  <a href="mailto:rafael.schnor@edu.unifil.br" target="_blank" style="text-decoration: none;">
+  <a href="mailto:rafael.schnor@edu.unifil.br">
     <img src="./imagens/xEMAIL.png" alt=" "/>
   </a>
-  <a href="https://discordapp.com/users/457175789021167616" style="text-decoration: none;">
+  <a href="https://discordapp.com/users/457175789021167616">
     <img src="./imagens/xDISCORD.png" alt=" "/>
   </a>
     <img src="./imagens/PHOTOPEA.png" alt=" "/>
