@@ -5,18 +5,14 @@
 <br clear="both">
 
 <div align="left">
-  <a href="mailto:rafael.schnor@edu.unifil.br" target="_blank">
+  <a href="mailto:rafael.schnor@edu.unifil.br" target="_blank" style="text-decoration: none;">
     <img src="./imagens/xEMAIL.png" alt=" "/>
   </a>
-  <a href="https://discordapp.com/users/457175789021167616">
+  <a href="https://discordapp.com/users/457175789021167616" style="text-decoration: none;">
     <img src="./imagens/xDISCORD.png" alt=" "/>
   </a>
-  <a>
     <img src="./imagens/PHOTOPEA.png" alt=" "/>
-  </a>
-  <a>
     <img src="./imagens/FLSTUDIO.png" alt=" "/>
-  </a>
 </div>
 
 <h1 align="left">Prólogo \ \ \ \ \ \ \ \</h3>
